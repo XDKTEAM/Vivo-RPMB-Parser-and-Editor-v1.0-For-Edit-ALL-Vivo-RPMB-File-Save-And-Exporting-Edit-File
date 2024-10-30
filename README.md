@@ -59,3 +59,37 @@ The interface provides straightforward options for:
 ### Compliance Notice
 The tool includes clear disclaimers about IMEI modification restrictions and educational usage guidelines.
 
+Legal Disclaimer - IMEI Editor Tool
+
+IMPORTANT NOTICE:
+
+1. This tool is provided strictly for EDUCATIONAL and RESEARCH purposes only.
+
+2. Modifying IMEI numbers is illegal in most countries and jurisdictions under telecommunications laws and regulations.
+
+3. Unauthorized alteration of IMEI numbers may result in:
+   - Criminal charges
+   - Heavy fines
+   - Device blacklisting
+   - Legal prosecution
+
+4. The developers and distributors of this tool:
+   - Do not endorse IMEI modification
+   - Take no responsibility for misuse
+   - Are not liable for any damages or legal consequences
+
+5. By using this tool, you acknowledge:
+   - Full understanding of local laws
+   - Acceptance of all risks
+   - Sole responsibility for usage
+
+6. Intended legitimate uses include:
+   - Academic research
+   - Software development study
+   - Technical documentation
+   - Educational demonstrations
+
+7. Professional technicians must obtain proper authorization and documentation before any IMEI-related operations.
+
+USE AT YOUR OWN RISK AND RESPONSIBILITY
+
